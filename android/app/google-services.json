@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "953204953092",
+    "project_id": "mining-app-9",
+    "storage_bucket": "mining-app-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953204953092:android:32b981f1a292d583396551",
+        "android_client_info": {
+          "package_name": "com.example.mining_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953204953092-6sie6t9e2eju84acs88aq918s2eele47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJav98tVYSrrq1Nal2JObzI2ajo5GfbqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953204953092-6sie6t9e2eju84acs88aq918s2eele47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "953204953092-to39nhh1s15sllaejaeaodnuvhjnemc2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miningApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
